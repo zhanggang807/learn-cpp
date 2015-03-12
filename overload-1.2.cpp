@@ -4,8 +4,9 @@ using namespace std;
 int max(int, int);
 int max(int, int, int);
 
-void main(){
-    cout << max(35, 25) << "," << max(25, 39, 35) << endl;
+int main(){
+    cout << max(35, 25) << " , " << max(25, 39, 35) << endl;
+    return 0;
 }
 
 int max(int m1, int m2){
