@@ -15,4 +15,5 @@ int main(){
     cout << endl;
 
     delete p;
+    return 0;
 }
