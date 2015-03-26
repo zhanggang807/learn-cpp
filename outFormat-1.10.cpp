@@ -7,6 +7,7 @@ int main(){
 	int b = 1001;
 	cout  << a << setw(6) << b << endl;
 	cout << setw(6) << a << b << endl;
+    return 0;
 	//第一个setw使b按域宽为6
 	//相当于a和b这间加入两个空格
 	//setw只对紧接着的元素有效
