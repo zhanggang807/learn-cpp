@@ -1,2 +1,2 @@
 # learn-cpp
-for c plus plus study
+for c plus plus and GNU make study
